@@ -2,7 +2,7 @@ tot = 0
 num = 0
 
 while True:
-    sval = input("Enter a number: ")
+    sval = input('Enter a number: ')
     if sval == 'done':
         break
     try:
@@ -33,3 +33,4 @@ else:
 # Count:  4            #
 # Average:  5.75       #
 ########################
+
